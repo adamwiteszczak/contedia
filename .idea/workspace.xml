@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ddcbb3a-c9de-4db5-b18d-9113c09f5d17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Involution" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WcAw9o9sqj7G6Z8DsmzS2pam8q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Change Language" value="MySQL" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON&#10;MySQL&#10;PHP" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/development" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp64\www\contedia\api\endpoint" />
+      <recent name="D:\wamp64\www\contedia\api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/development" />
+      <recent name="C:\Bitnami\wampstack-7.3.12-0\apache2\htdocs\involution\content\entity" />
+      <recent name="C:\Bitnami\wampstack-7.3.12-0\apache2\htdocs\involution\dev" />
+      <recent name="C:\Bitnami\wampstack-7.3.12-0\apache2\htdocs\involution" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Mark.Jones\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ddcbb3a-c9de-4db5-b18d-9113c09f5d17" name="Default Changelist" comment="" />
+      <created>1579438744720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579438744720</updated>
+      <workItem from="1579438749593" duration="2968000" />
+      <workItem from="1579513059929" duration="10624000" />
+      <workItem from="1579527920285" duration="733000" />
+      <workItem from="1579599406593" duration="16165000" />
+      <workItem from="1580116734406" duration="4956000" />
+      <workItem from="1580140365523" duration="4326000" />
+      <workItem from="1580204340125" duration="9470000" />
+      <workItem from="1580462900906" duration="22571000" />
+      <workItem from="1580723930730" duration="14525000" />
+      <workItem from="1580823495743" duration="1612000" />
+      <workItem from="1580896442246" duration="7368000" />
+      <workItem from="1581079358017" duration="4091000" />
+      <workItem from="1581241288690" duration="668000" />
+      <workItem from="1581332261419" duration="6871000" />
+      <workItem from="1581411998861" duration="2186000" />
+      <workItem from="1581502150176" duration="15213000" />
+      <workItem from="1581582017247" duration="16293000" />
+      <workItem from="1581606553029" duration="1678000" />
+      <workItem from="1581672865103" duration="4619000" />
+      <workItem from="1581680785301" duration="3131000" />
+      <workItem from="1581698464198" duration="1471000" />
+      <workItem from="1581929370829" duration="1113000" />
+      <workItem from="1581935497363" duration="8000" />
+      <workItem from="1581935796203" duration="12442000" />
+      <workItem from="1582276298228" duration="19068000" />
+      <workItem from="1582538509665" duration="1524000" />
+      <workItem from="1582630816696" duration="2283000" />
+      <workItem from="1582889472122" duration="705000" />
+      <workItem from="1582893443773" duration="1275000" />
+      <workItem from="1582903627898" duration="888000" />
+      <workItem from="1583140678057" duration="459000" />
+      <workItem from="1583151354408" duration="943000" />
+      <workItem from="1584019844773" duration="134000" />
+      <workItem from="1584095782595" duration="3606000" />
+      <workItem from="1584107421879" duration="2772000" />
+      <workItem from="1584350760605" duration="498000" />
+      <workItem from="1584353387378" duration="287000" />
+      <workItem from="1584353688966" duration="150000" />
+      <workItem from="1584353849905" duration="629000" />
+      <workItem from="1584456729664" duration="503000" />
+      <workItem from="1584699501635" duration="927000" />
+      <workItem from="1585306483180" duration="1347000" />
+      <workItem from="1585649319883" duration="1319000" />
+      <workItem from="1585728060917" duration="6951000" />
+      <workItem from="1585924892843" duration="1174000" />
+      <workItem from="1586160945373" duration="3793000" />
+      <workItem from="1588674489949" duration="3925000" />
+      <workItem from="1589109941808" duration="7699000" />
+      <workItem from="1589271396142" duration="16720000" />
+      <workItem from="1589356065194" duration="10506000" />
+      <workItem from="1589467713875" duration="2244000" />
+      <workItem from="1589538547825" duration="2367000" />
+      <workItem from="1589875948556" duration="1165000" />
+      <workItem from="1589895840227" duration="5822000" />
+      <workItem from="1590700015114" duration="693000" />
+      <workItem from="1590752585219" duration="11338000" />
+      <workItem from="1592216451553" duration="1798000" />
+      <workItem from="1596454041172" duration="34803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589376271578">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state x="515" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1589376271578" />
+    <state x="562" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1596468302869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596468302869" />
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom" timestamp="1588696865543">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.bottom/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1588696865543" />
+    <state width="1750" height="279" key="GridCell.Tab.0.center" timestamp="1588696865542">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.center/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1588696865542" />
+    <state width="1750" height="279" key="GridCell.Tab.0.left" timestamp="1588696865541">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.left/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1588696865541" />
+    <state width="1750" height="279" key="GridCell.Tab.0.right" timestamp="1588696865542">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state width="1750" height="279" key="GridCell.Tab.0.right/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1588696865542" />
+    <state x="636" y="357" key="NewPhpFileDialog" timestamp="1596466705270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="742" y="478" key="NewPhpFileDialog/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1590769104850" />
+    <state x="636" y="357" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1596466705270" />
+    <state x="742" y="478" key="NewPhpFileDialog/0.23.1792.1049@0.23.1792.1049" timestamp="1589112085026" />
+    <state x="86" y="105" width="1621" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589184489491">
+      <screen x="0" y="23" width="1792" height="1049" />
+    </state>
+    <state x="86" y="105" width="1621" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1589184489491" />
+    <state x="153" y="120" width="1131" height="629" key="find.popup" timestamp="1596485034331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="179" y="176" width="1319" height="800" key="find.popup/-419.-1057.2560.1057/0.23.1792.1049@0.23.1792.1049" timestamp="1592217239358" />
+    <state x="153" y="120" width="1131" height="629" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596485034331" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1596529739686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596529739686" />
+  </component>
+</project>

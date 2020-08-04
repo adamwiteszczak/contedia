@@ -1,0 +1,23 @@
+{
+  "enGB": {
+    "main_menu_sample_1": "Sample Menu 1",
+    "main_menu_sample_2": "Sample Menu 2",
+    "main_menu_sample_3": "Sample Menu 3",
+    "main_menu_submenu_0": "Submenu 1",
+    "main_menu_submenu_1": "Submenu 2",
+    "main_menu_submenu_2": "Submenu 3",
+    "main_menu_submenu_3": "Submenu 4",
+    "main_menu_submenu_4": "Submenu 5"
+  },
+  "fr": {
+    "main_menu_sample_1": "Le Sample Menu 1",
+    "main_menu_sample_2": "Le Sample Menu 2",
+    "main_menu_sample_3": "Le Sample Menu 3",
+    "main_menu_submenu_0": "Le Submenu 1",
+    "main_menu_submenu_1": "Le Submenu 2",
+    "main_menu_submenu_2": "Le Submenu 3",
+    "main_menu_submenu_3": "Le Submenu 4",
+    "main_menu_submenu_4": "Le Submenu 5"
+  }
+
+}
