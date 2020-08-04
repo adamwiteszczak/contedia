@@ -5,15 +5,31 @@ use Classes\Db;
 
 class Controller
 {
+    /**
+     * @var Db
+     */
     private $db;
+    /**
+     * @var string
+     */
     private $menu_table = 'site_menu';
+    /**
+     * @var string
+     */
     private $menu_item_table = 'site_menu_item';
 
+    /**
+     * Controller constructor.
+     */
     public function __construct()
     {
         $this->db = new Db();
     }
 
+    /**
+     * @param $name
+     * @return string
+     */
     public function createMenu($name)
     {
         $menu_id = $this->db->insert(
@@ -24,6 +40,10 @@ class Controller
         return $menu_id;
     }
 
+    /**
+     * @param $name
+     * @return array
+     */
     public function getMenuByName($name)
     {
         /**
@@ -45,6 +65,14 @@ class Controller
         return $this->getChildren($temp);
     }
 
+    /**
+     * @param $menu_id
+     * @param $label
+     * @param $menu_order
+     * @param null $class
+     * @param null $parent
+     * @return string
+     */
     public function addMenuItem($menu_id, $label, $menu_order, $class = null, $parent = null)
     {
         $menu_item_id = $this->db->insert(
@@ -56,6 +84,11 @@ class Controller
         return $menu_item_id;
     }
 
+    /**
+     * @param $tmp
+     * @param null $parent_id
+     * @return array
+     */
     private function getChildren($tmp, $parent_id = null)
     {
         $items = array();

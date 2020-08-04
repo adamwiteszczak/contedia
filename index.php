@@ -340,6 +340,11 @@ ini_set("display_errors", 1);
     <script>
       $(document).ready(function() {
 
+          /**
+           * @ToDo
+           *  Use a handlebars 1i8n helper to handle the translations
+           */
+
           var translations = $.getJSON('translations.json').promise();
           var menu = $.get('api/?method=menu.getbyname&menu_name=main_menu').promise();
 
